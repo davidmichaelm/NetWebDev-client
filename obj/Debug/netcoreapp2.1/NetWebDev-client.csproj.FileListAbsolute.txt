@@ -1,0 +1,28 @@
+/Users/davidmarquardt/Documents/WCTC/dotNet Database/NetWebDev-client/bin/Debug/netcoreapp2.1/NetWebDev-client.deps.json
+/Users/davidmarquardt/Documents/WCTC/dotNet Database/NetWebDev-client/bin/Debug/netcoreapp2.1/NetWebDev-client.runtimeconfig.json
+/Users/davidmarquardt/Documents/WCTC/dotNet Database/NetWebDev-client/bin/Debug/netcoreapp2.1/NetWebDev-client.runtimeconfig.dev.json
+/Users/davidmarquardt/Documents/WCTC/dotNet Database/NetWebDev-client/bin/Debug/netcoreapp2.1/NetWebDev-client.dll
+/Users/davidmarquardt/Documents/WCTC/dotNet Database/NetWebDev-client/bin/Debug/netcoreapp2.1/NetWebDev-client.pdb
+/Users/davidmarquardt/Documents/WCTC/dotNet Database/NetWebDev-client/obj/Debug/netcoreapp2.1/NetWebDev-client.csprojAssemblyReference.cache
+/Users/davidmarquardt/Documents/WCTC/dotNet Database/NetWebDev-client/obj/Debug/netcoreapp2.1/NetWebDev-client.csproj.CoreCompileInputs.cache
+/Users/davidmarquardt/Documents/WCTC/dotNet Database/NetWebDev-client/obj/Debug/netcoreapp2.1/NetWebDev-client.RazorAssemblyInfo.cache
+/Users/davidmarquardt/Documents/WCTC/dotNet Database/NetWebDev-client/obj/Debug/netcoreapp2.1/NetWebDev-client.RazorAssemblyInfo.cs
+/Users/davidmarquardt/Documents/WCTC/dotNet Database/NetWebDev-client/obj/Debug/netcoreapp2.1/NetWebDev-client.AssemblyInfoInputs.cache
+/Users/davidmarquardt/Documents/WCTC/dotNet Database/NetWebDev-client/obj/Debug/netcoreapp2.1/NetWebDev-client.AssemblyInfo.cs
+/Users/davidmarquardt/Documents/WCTC/dotNet Database/NetWebDev-client/obj/Debug/netcoreapp2.1/NetWebDev-client.RazorTargetAssemblyInfo.cache
+/Users/davidmarquardt/Documents/WCTC/dotNet Database/NetWebDev-client/obj/Debug/netcoreapp2.1/NetWebDev-client.dll
+/Users/davidmarquardt/Documents/WCTC/dotNet Database/NetWebDev-client/obj/Debug/netcoreapp2.1/NetWebDev-client.pdb
+/Users/davidmarquardt/Documents/WCTC/Fall 2020/dotNet Web Development/NetWebDev-client/bin/Debug/netcoreapp2.1/NetWebDev-client.deps.json
+/Users/davidmarquardt/Documents/WCTC/Fall 2020/dotNet Web Development/NetWebDev-client/bin/Debug/netcoreapp2.1/NetWebDev-client.runtimeconfig.json
+/Users/davidmarquardt/Documents/WCTC/Fall 2020/dotNet Web Development/NetWebDev-client/bin/Debug/netcoreapp2.1/NetWebDev-client.runtimeconfig.dev.json
+/Users/davidmarquardt/Documents/WCTC/Fall 2020/dotNet Web Development/NetWebDev-client/bin/Debug/netcoreapp2.1/NetWebDev-client.dll
+/Users/davidmarquardt/Documents/WCTC/Fall 2020/dotNet Web Development/NetWebDev-client/bin/Debug/netcoreapp2.1/NetWebDev-client.pdb
+/Users/davidmarquardt/Documents/WCTC/Fall 2020/dotNet Web Development/NetWebDev-client/obj/Debug/netcoreapp2.1/NetWebDev-client.csprojAssemblyReference.cache
+/Users/davidmarquardt/Documents/WCTC/Fall 2020/dotNet Web Development/NetWebDev-client/obj/Debug/netcoreapp2.1/NetWebDev-client.csproj.CoreCompileInputs.cache
+/Users/davidmarquardt/Documents/WCTC/Fall 2020/dotNet Web Development/NetWebDev-client/obj/Debug/netcoreapp2.1/NetWebDev-client.RazorAssemblyInfo.cache
+/Users/davidmarquardt/Documents/WCTC/Fall 2020/dotNet Web Development/NetWebDev-client/obj/Debug/netcoreapp2.1/NetWebDev-client.RazorAssemblyInfo.cs
+/Users/davidmarquardt/Documents/WCTC/Fall 2020/dotNet Web Development/NetWebDev-client/obj/Debug/netcoreapp2.1/NetWebDev-client.AssemblyInfoInputs.cache
+/Users/davidmarquardt/Documents/WCTC/Fall 2020/dotNet Web Development/NetWebDev-client/obj/Debug/netcoreapp2.1/NetWebDev-client.AssemblyInfo.cs
+/Users/davidmarquardt/Documents/WCTC/Fall 2020/dotNet Web Development/NetWebDev-client/obj/Debug/netcoreapp2.1/NetWebDev-client.RazorTargetAssemblyInfo.cache
+/Users/davidmarquardt/Documents/WCTC/Fall 2020/dotNet Web Development/NetWebDev-client/obj/Debug/netcoreapp2.1/NetWebDev-client.dll
+/Users/davidmarquardt/Documents/WCTC/Fall 2020/dotNet Web Development/NetWebDev-client/obj/Debug/netcoreapp2.1/NetWebDev-client.pdb
