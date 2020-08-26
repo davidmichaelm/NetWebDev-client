@@ -11,5 +11,18 @@ $(function(){
          // play audio
          toast.play();
          $('#toast').toast({ autohide: false }).toast('show');
+         
+         let target = $(e.target)
+         let product = target.data('product');
+         let code = target.data('code');
+         
+         $('#product').text(product);
+         $('#code').text(code);
+     });
+     
+     $(document).on('keydown', (event) => {
+        if (event.key == 'Escape') {
+            $('#toast').toast('hide')
+        }
      });
  });
